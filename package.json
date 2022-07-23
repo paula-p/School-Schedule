@@ -24,7 +24,7 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "?"
+    "url": "https://github.com/paula-p/vue3.git"
   },
   "author": "P_0",
   "license": "ISC"
